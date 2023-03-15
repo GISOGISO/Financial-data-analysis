@@ -4,7 +4,7 @@
 * Scraped 10 years of stock data from Yahoo finance API
 
 * Project details  
-The portfolio consists of five stocks from different sectors for the purpose of diversification and lowering the risk of the portfolio:  
+The securities under this portfolio are picked from a wide range of different sectors in order to achieve portfolio diversification and lowering risk.
 1. technology (MSFT)  
 2. telecommunications (T)  
 3. consumer goods (WMT)  
