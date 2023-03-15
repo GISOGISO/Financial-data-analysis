@@ -1,6 +1,6 @@
 # Financial_data_analysis_1
 
-* This projects aims to analyse a stock portfolio that contains the following stocks: 'LVMUY', 'MSFT', 'WMT', 'GLD', 'T' by finding their hitorical return, covariance and correlation.
+* This projects aims to analyse a stock portfolio by finding their hitorical return, covariance and correlation.
 * Scraped 10 years of stock data from Yahoo finance API
 
 * Project details  
