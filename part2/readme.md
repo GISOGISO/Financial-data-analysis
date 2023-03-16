@@ -1,4 +1,4 @@
-# Project summary  
+# Project overview  
 The project aims to identify the optimal securities portfolio for investors with varying risk appetites that maximise returns while minimize risk using the Markowitz portfolio optimization theory and finding the efficeint frontier through writing various Python simulations and visualising the results.
  
 # Project details  
