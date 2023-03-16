@@ -2,7 +2,7 @@
 
 Portolio [MSFT, T, WMT, XOM, LVMUY]  
 
-# [Part 1: Covariance and correlation](https://github.com/GISOGISO/Financial_data_analysis/edit/main/readme1.md)  
+# [Part 1: Covariance and correlation](https://github.com/GISOGISO/Financial_data_analysis/tree/main/part1)  
 * Scraped 10 years of historical data.
 * Optimized API, yfinance, datetime,seaborn, matplotlib and numpy in Python for data scrapping, calculations and visualisations.
 
@@ -12,7 +12,7 @@ Portolio [MSFT, T, WMT, XOM, LVMUY]
 
 
 
-# [Part 2: Identify the optimal securities portfolios using the Markowitz portfolio optimization theory and finding the efficeint frontier.](https://github.com/GISOGISO/Financial_data_analysis/new/main)
+# [Part 2: Identify the optimal securities portfolios using the Markowitz portfolio optimization theory and finding the efficeint frontier.](https://github.com/GISOGISO/Financial_data_analysis/tree/main/part2)
 
 * Simulated 30,000 random portfolios with positive weights to calculate their annualized returns, volatilities, and Sharpe ratios using the mean returns and covariance matrix of the assets in the portfolio.  
 * Plotted the efficient frontier to visualize the sets of optimal portfolios with maximum Sharpe ratio and minimum volatility.  
