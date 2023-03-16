@@ -1,20 +1,16 @@
-# Financial_data_analysis_1
+# Financial_data_analysis_part1
 
-*
-*The objective of this project is to identify the ideal securities portfolio for investors with varying risk appetites for them to achieve maximum returns while minimizing risk.
-* Assets in the portolio: [MSFT, T, WMT, XOM, LVMUY]
-* First, the hitorical return, covariance and correlation is analysed by scraping 10 years of stock data from Yahoo finance API
-* Then, Markowitz portfolio optimization theory and various Python simulations were  The aim is to identify two portfolios that suit investors with different risk appetite: one with the minimum volatility (lowest risk) and another with the maximum Sharpe ratio (highest expected return). These portfolios are calculated, and the efficient frontier is plotted to visualize the results.
-
-* Project details  
-The securities under this portfolio are picked from a wide range of different sectors in order to achieve portfolio diversification and lowering risk.
+* The project is interested in analysing the returns, covariance and correlation of the Portolio [MSFT, T, WMT, XOM, LVMUY] by scraping 10 years of stock data from Yahoo finance API and visualising the result.
+ 
+* The securities under this portfolio are picked from a wide range of different sectors in order to achieve portfolio diversification and lowering risk.
 1. technology (MSFT)  
 2. telecommunications (T)  
 3. consumer goods (WMT)  
 4. Healthcare: (XOM)  
 5. luxury goods: (LVMUY)  
 
-* The log Return of a Portfolio of Securities from 2013 - 2023 historical data is then calculated and visualised in the below graph:
+Porject details:
+* The log Return of a Portfolio of Securities from 2013 - 2023 historical data is first calculated and visualised in the below graph:
 
 ![](https://github.com/GISOGISO/Financial_data_analysis/blob/main/images/Normalised%20Portfolio%20stock%20price%202013-2023'.png)
 * Findings: 
@@ -35,7 +31,7 @@ Most of the stocks show a low corerlation of less than 0.4.
 GLD shows the weakest correlation against all other stocks in the portfolio.  GLD is considered an independent stock.  
 LVMUY and MSFT has the highest correlation of 0.51, it is a surprise finding as the stocks belongs to completely different sectors, i.e. the former in luxury goods and the latter in technology sector. The below provides brief analysis on the relatively high correlation for the 2 stocks:  
 1. Both LVMUY and MSFT are large, multinational companies with diverse revenue streams, hence their stock prices may be influenced by similar macroeconomic factors such as global economic trends and political events.
-2. Both LVMUY and MSFT are considered as high-quality, blue-chip companies, hence they are generally considered as stable and reliable investments. Investors may therefore be more likely to hold both stocks in their portfolios as a way to diversify their holdings and reduce risk.
+2. Both LVMUY and MSFT are considered as high-quality, blue-chip companies, hence they are generally considered as stable and reliable investments. Investors may therefore be more likely to hold both stocks in their portfolios as a way to diversify their holdings and reduce risk, which in turn increasing the correlation of the stocks.
 
 **Overall comments:**  
 Overall, the correlation and covariance matrices above suggest that the variables are not highly correlated with each other, indicating that this is a diversified portfolio. 
@@ -43,6 +39,15 @@ Overall, the correlation and covariance matrices above suggest that the variable
 Note. Please refer to the next financial analysis for further analysis on the portfolio.
 
 Part 2
+
+
+
+
+2. Identify the optimal securities portfolio for investors with varying risk appetites that maximise returns while minimize risk using the Markowitz portfolio optimization theory and finding the efficeint frontier.
+
+2. Identify the optimal securities portfolio for investors with varying risk appetites that maximise returns while minimize risk using the Markowitz portfolio optimization theory and finding the efficeint frontier.
+ 
+* Then, Markowitz portfolio optimization theory and various Python simulations were  The aim is to identify two portfolios that suit investors with different risk appetite: one with the minimum volatility (lowest risk) and another with the maximum Sharpe ratio (highest expected return). These portfolios are calculated, and the efficient frontier is plotted to visualize the results.
 
 Using the same securities, the portfolio is further analysed using the Markowitz portfolio optimization theory and writing correpsonding simulations to identify the portfolio with the minimum volatility(lowest risk) and the portfolio with the maximum Sharpe ratio(highest expected return) and plot the efficient frontier. Both portfolios are calculated in this project analysis in order to suit investors with different risk appetite.
 
