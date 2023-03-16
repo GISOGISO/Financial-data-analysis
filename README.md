@@ -69,14 +69,16 @@ Then,  the respective weights of the assets of the 2 protfolio are identified, w
 Brief analysis:
 The two portfolios have very different compositions and weightings.  
 
-<u>This text will be underlined</u>  
+*Maximum Sharpe ratio portfolio*
+1. The portfolio with the maximum Sharpe ratio is primarily composed of growth assets including technology companies (MSFT, 49.5%) and  the  luxury goods conglomerate (LVMUY, 26.1%). These companies are generally expected to grow faster than the overall market and have the potential for higher returns, yet, they are more volatile and contains higher risks. 
+2. It is noted that GLD and AT&T have a minimal weighting in the portfolio, both stocks have low returns and volatility and are considered defensive stocks. 
 
-<u>Maximum Sharpe ratio portfolio</u>  
-The portfolio with the maximum Sharpe ratio is primarily composed of growth assets including technology companies (MSFT, 49.5%) and  the  luxury goods conglomerate (LVMUY, 26.1%). These companies are generally expected to grow faster than the overall market and have the potential for higher returns, yet, they are more volatile and contains higher risks. It is noted that GLD and AT&T have a minimal weighting in the portfolio, both stocks have low returns and volatility and are considered defensive stocks. 
+*Minimum volatility portfolio*
+1. The portfolio with the minimum volatility is primarily composed of defensive assets, such as gold (GLD, 53.6%) and Walmart (WMT, 26.6%). These assets are typically considered safe-haven investments as they tend to perform well during economic downturns and times of market volatility. 
+2. 
+3. On the other hand, the minimum volatility portfolio has the largest weight given to Gold (GLD, followed by Walmart (WMT, 26.6%). This suggests that the portfolio is skewed towards defensive stocks such as gold, and consumer staples like Walmart and AT&T, which are considered to be relatively stable sectors.
 
-On the other hand, the minimum volatility portfolio has the largest weight given to Gold (GLD, followed by Walmart (WMT, 26.6%). This suggests that the portfolio is skewed towards defensive stocks such as gold, and consumer staples like Walmart and AT&T, which are considered to be relatively stable sectors.
-
-The portfolio with the minimum volatility is primarily composed of defensive assets, such as gold (GLD, 53.6%) and Walmart (WMT, 26.6%). These assets are typically considered safe-haven investments as they tend to perform well during economic downturns and times of market volatility. For instnace, the telecommunications company, AT&T (T), which is also known for its defensive characteristics, as it provides essential services that people are unlikely to cut back on even during economic hardship.
+For instnace, the telecommunications company, AT&T (T), which is also known for its defensive characteristics, as it provides essential services that people are unlikely to cut back on even during economic hardship.
 
 
 
