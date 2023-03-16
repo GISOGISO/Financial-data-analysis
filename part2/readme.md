@@ -26,11 +26,15 @@ Then,  the respective weights of the assets of the 2 protfolio are identified, w
 The two portfolios have very different compositions and weightings.  
 
 *Maximum Sharpe ratio portfolio*
-1. The portfolio is primarily composed of growth assets including technology companies (MSFT, 49.5%) and  the  luxury goods conglomerate (LVMUY, 26.1%). These companies are generally expected to grow faster than the overall market and have the potential for higher returns, yet, they are more volatile and contains higher risks. 
-2. It is noted that GLD and AT&T have a minimal weighting in the portfolio, both stocks have low returns and volatility and are considered defensive stocks. 
+1. The portfolio is primarily composed of growth assets including technology companies (MSFT, 49.5%) and the luxury goods conglomerate (LVMUY, 26.1%). These companies are generally expected to grow faster than the overall market.
+2. These assets have a higher covariance with each other, allowing for higher potential returns but also higher volatility.
+3. It is noted that GLD and AT&T have a minimal weighting in the portfolio, both stocks have low returns and volatilities and are considered defensive stocks. 
 
 *Minimum volatility portfolio*
-1. The portfolio is primarily composed of defensive assets, such as gold (GLD, 53.6%) and Walmart (WMT, 26.6%). These assets are typically considered safe-haven investments as they tend to perform well during economic downturns and times of market volatility. 
+1. The portfolio is primarily composed of defensive assets, such as gold (GLD, 53.6%) and Walmart (WMT, 26.6%). 
+2. These defensive assets have a low covariance with the other assets in the portfolio, making them ideal for minimizing overall portfolio volatility.
+3. Hence, the portfolio is considered safe-haven investments as it tend to perform well during economic downturns and times of market volatility. 
+
 
 ## Implications to investors: 
 
