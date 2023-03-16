@@ -1,15 +1,13 @@
 # Project summary
 * The project is interested in analysing the returns, covariance and correlation of the Portolio [MSFT, T, WMT, XOM, LVMUY] by scraping 10 years of stock data from Yahoo finance API and visualising the result.
 
+# Project details:
  * The securities are picked from a wide range of different sectors in order to achieve portfolio diversification and lowering risk.
 1. technology (MSFT)  
 2. telecommunications (T)  
 3. consumer goods (WMT)  
 4. Healthcare: (XOM)  
 5. luxury goods: (LVMUY)  
-
-
-# Porject details:
 * The log Return of a Portfolio of Securities from 2013 - 2023 historical data is first calculated and visualised in the below graph:
 
 ![](https://github.com/GISOGISO/Financial_data_analysis/blob/main/images/Normalised%20Portfolio%20stock%20price%202013-2023'.png)
@@ -39,9 +37,6 @@ Overall, the correlation and covariance matrices above suggest that the variable
 Note. Please refer to part 2 for further analysis on the portfolio.
 
 
-
-
-2. Identify the optimal securities portfolio for investors with varying risk appetites that maximise returns while minimize risk using the Markowitz portfolio optimization theory and finding the efficeint frontier.
 
 2. Identify the optimal securities portfolio for investors with varying risk appetites that maximise returns while minimize risk using the Markowitz portfolio optimization theory and finding the efficeint frontier.
  
