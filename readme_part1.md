@@ -1,6 +1,4 @@
-* Part 1: Covariance and correlation
-* Part 2: Identify the optimal securities portfolios using the Markowitz portfolio optimization theory and finding the efficeint frontier.
-
+# Project summary
 * The project is interested in analysing the returns, covariance and correlation of the Portolio [MSFT, T, WMT, XOM, LVMUY] by scraping 10 years of stock data from Yahoo finance API and visualising the result.
 
  * The securities are picked from a wide range of different sectors in order to achieve portfolio diversification and lowering risk.
@@ -11,7 +9,7 @@
 5. luxury goods: (LVMUY)  
 
 
-Porject details:
+# Porject details:
 * The log Return of a Portfolio of Securities from 2013 - 2023 historical data is first calculated and visualised in the below graph:
 
 ![](https://github.com/GISOGISO/Financial_data_analysis/blob/main/images/Normalised%20Portfolio%20stock%20price%202013-2023'.png)
@@ -38,9 +36,7 @@ LVMUY and MSFT has the highest correlation of 0.51, it is a surprise finding as 
 **Overall comments:**  
 Overall, the correlation and covariance matrices above suggest that the variables are not highly correlated with each other, indicating that this is a diversified portfolio. 
 
-Note. Please refer to the next financial analysis for further analysis on the portfolio.
-
-Part 2
+Note. Please refer to part 2 for further analysis on the portfolio.
 
 
 
