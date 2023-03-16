@@ -1,6 +1,6 @@
 # Financial_data_analysis  
 
-* Portolio [MSFT, T, WMT, XOM, LVMUY]  
+Portolio [MSFT, T, WMT, XOM, LVMUY]  
 
 # [Part 1: Covariance and correlation](https://github.com/GISOGISO/Financial_data_analysis/edit/main/readme1.md)  
 * Scraped 10 years of historical data.
