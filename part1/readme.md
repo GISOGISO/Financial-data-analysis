@@ -37,6 +37,4 @@ Overall, the correlation and covariance matrices above suggest that the variable
 [Please click here for further analysis on finding the optimal investment portolio using the Markowitz portfolio optimization theory](https://github.com/GISOGISO/Financial_data_analysis/tree/main/part2)
 
 
-Note. Please refer to part 2 for an in-depth analysis on identifying the optimal securities portfolios 
-
 
