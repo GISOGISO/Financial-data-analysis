@@ -36,7 +36,9 @@ The two portfolios have very different compositions and weightings.
 3. Hence, the portfolio is considered safe-haven investments as it tend to perform well during economic downturns and times of market volatility. 
 
 
-## Implications to investors: 
+## Implications to investors:  
+
+The composition and weightings of the two portfolios reflect the trade-off between risk and return.  
 
 1. Higher risk tolerance investors: 
 - If the investor has a higher risk tolerance and is willing to accept more volatility in exchange for potentially higher returns, then the maximum Sharpe ratio portfolio may be more suitable. This portfolio is designed to maximize expected returns for a given level of risk, and as a result, may outperform the minimum volatility portfolio in certain market conditions, e.g. during a bull market.
@@ -45,6 +47,3 @@ The two portfolios have very different compositions and weightings.
 - If the investor has a lower risk tolerance and prioritizes capital preservation over potentially higher returns, then the minimum volatility portfolio may be more appropriate. This portfolio is designed to minimize risk for a given level of expected returns, and may be more resilient during market downturns.  
 
 Ultimately, investors should carefully consider their investment goals, risk tolerance, and investment horizon when deciding between the two portfolios. It is also important to note that these portfolios are not static and require periodic adjustments.
-
-
-
