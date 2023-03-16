@@ -1,4 +1,4 @@
-# Project summary
+# Project overview
 * The project is interested in analysing the returns, covariance and correlation of the Portolio [MSFT, T, WMT, XOM, LVMUY] by scraping 10 years of stock data from Yahoo finance API and visualising the result.
 
 # Project details:
