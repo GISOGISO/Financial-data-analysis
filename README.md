@@ -15,7 +15,7 @@ Portolio [MSFT, T, WMT, XOM, LVMUY]
 # [Part 2: Identify the optimal securities portfolios using the Markowitz portfolio optimization theory and finding the efficeint frontier.](https://github.com/GISOGISO/Financial_data_analysis/tree/main/part2)
 
 * Simulated 30,000 random portfolios with positive weights to calculate their annualized returns, volatilities, and Sharpe ratios using the mean returns and covariance matrix of the assets in the portfolio.  
-* Plotted the efficient frontier to visualize the sets of optimal portfolios with maximum Sharpe ratio and minimum volatility.  
+* Plotted the efficient frontier to visualise the sets of optimal portfolios with maximum Sharpe ratio and minimum volatility.  
 * Identify the portfolios with the highest Sharpe ratio and the portfolio with the minimum volatility.  
 * Identify the respective weights of assets of the 2 protfolios and visualise the result in form of pie chart.  
 
