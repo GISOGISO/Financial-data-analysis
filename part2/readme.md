@@ -8,12 +8,15 @@ Risk-free rate is defined as the US 10 year Treasury yield as at 16 Mar 2023 (3.
 
 Below are the details of the simulation: 
 
-The code first simulates 30,000 random portfolios with positive weights and calculates their annualized returns, volatilities, and Sharpe ratios using the mean returns and covariance matrix of the assets in the portfolio.  
-The Sharpe ratio is then calculated using the formula (portfolio return - risk-free rate) / portfolio volatility.  
-As it is assumed that this portfolio only allows long position, all securities weightings should be in positive values, hence, the code filters out any portfolios with negative weights.  
-The resulting portfolios are stored in a pandas DataFrame and the portfolios with the highest Sharpe ratio as well as the portfolio with the minimum volatility are identified among the set of optimal portfolios.  
+1. The code first simulates 30,000 random portfolios with positive weights and calculates their annualized returns, volatilities, and Sharpe ratios using the mean returns and covariance matrix of the assets in the portfolio.  
 
-The efficient frontier is then plotted to visualize the sets of optimal portfolios with maximum Sharpe ratio and minimum volatility.  The volatility and return of an equal-weighted portfolio is also plotted for comparison purposes.
+2. The Sharpe ratio is then calculated using the formula (portfolio return - risk-free rate) / portfolio volatility.  
+
+3. As it is assumed that this portfolio only allows long position, all securities weightings should be in positive values, hence, the code filters out any portfolios with negative weights.   
+
+4. The resulting portfolios are stored in a pandas DataFrame and the portfolios with the highest Sharpe ratio as well as the portfolio with the minimum volatility are identified among the set of optimal portfolios.   
+
+5. The efficient frontier is then plotted to visualize the sets of optimal portfolios with maximum Sharpe ratio and minimum volatility.  The volatility and return of an equal-weighted portfolio is also plotted for comparison purposes.
 
 ![](https://github.com/GISOGISO/Financial_data_analysis/blob/main/images/Efficient%20Frontier%20with%20Max%20Sharpe%20Ratio%2C%20min%20volatility%20and%20equal%20weights.png)  
 
